@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This is a job finder application built with React and TypeScript, styled with styled-components. It allows users to filter and search for specific job listings based on criteria like job title,
-location, and other preferences, offering a seamless and responsive user experience
+location, and other preferences, offering a seamless and responsive user experience.
 
 ## Available Scripts
 In the project directory, you can run:
